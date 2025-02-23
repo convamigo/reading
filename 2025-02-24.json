@@ -1,0 +1,78 @@
+{
+  "vocabulary": [
+    { "dutch": "de neerslag", "english": "precipitation" },
+    { "dutch": "vrijwel", "english": "almost" },
+    { "dutch": "flink", "english": "considerably" },
+    { "dutch": "het westen", "english": "the west" },
+    { "dutch": "de bewolking", "english": "cloud cover" },
+    { "dutch": "afzwakken", "english": "to weaken" },
+    { "dutch": "de mist", "english": "fog" },
+    { "dutch": "de laaghangende bewolking", "english": "low clouds" },
+    { "dutch": "opklaren", "english": "to clear up" },
+    { "dutch": "de kans", "english": "chance" },
+    { "dutch": "wisselvallig", "english": "unstable" },
+    { "dutch": "het weekend", "english": "the weekend" }
+  ],
+  "readingTests": [
+    {
+      "paragraph": "Deze week begint nat: maandag regent het bijna de hele dag. Ook dinsdag en woensdag heb je een regenjas nodig. De rest van de week is wat droger. De temperatuur ligt rond de 10 graden.",
+      "question": "Wat voor weer is het op maandag?",
+      "options": [
+        "Het regent bijna de hele dag.",
+        "Het is zonnig en droog.",
+        "Het sneeuwt in het hele land."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Na een zonnige zondag lijkt het even lente, maar maandag wordt het nat. Vooral in het westen kan meer dan 10 millimeter regen vallen, zegt Weeronline.",
+      "question": "Waar valt de meeste regen op maandag?",
+      "options": [
+        "In het westen van Nederland.",
+        "In het noorden van Nederland.",
+        "In het zuiden van Nederland."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "In de rest van Nederland regent het ook. Aan het eind van de middag wordt het iets droger, maar de lucht blijft grijs. Er staat een sterke zuidwestenwind, maar later op de dag wordt die minder. De temperatuur blijft rond 9 of 10 graden.",
+      "question": "Wat gebeurt er met de wind in de loop van de middag?",
+      "options": [
+        "De wind wordt minder sterk.",
+        "De wind wordt harder.",
+        "De wind blijft even sterk."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Dinsdag blijft het nat en mistig. Door de wolken is de zon bijna niet te zien. In de middag begint het weer te regenen. De temperatuur blijft rond 10 graden.",
+      "question": "Wanneer begint het dinsdag weer te regenen?",
+      "options": [
+        "In de middag.",
+        "In de ochtend.",
+        "In de avond."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Woensdag wordt het droger en zonniger. Vooral in de ochtend en middag is er weinig bewolking. In de avond komt er weer regen vanuit het westen. De temperatuur blijft ongeveer 10 graden.",
+      "question": "Wanneer is het droog en zonnig op woensdag?",
+      "options": [
+        "In de ochtend en middag.",
+        "In de avond.",
+        "De hele dag."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Donderdag is het weer wisselvallig met veel bewolking en regen. Vrijdag wordt droger en zonniger. In het weekend komt er opnieuw regen.",
+      "question": "Welke dag is droger en zonniger?",
+      "options": [
+        "Vrijdag.",
+        "Donderdag.",
+        "Zaterdag."
+      ],
+      "answer": 0
+    }
+  ]
+}
