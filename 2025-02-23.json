@@ -1,76 +1,76 @@
 {
   "vocabulary": [
-    { "dutch": "de grondstof", "english": "raw material" },
-    { "dutch": "de leverancier", "english": "supplier" },
-    { "dutch": "het conflict", "english": "conflict" },
-    { "dutch": "beschikbaar", "english": "available" },
-    { "dutch": "tijdelijk", "english": "temporary" },
-    { "dutch": "verkrijgbaar", "english": "available for purchase" },
-    { "dutch": "het huismerk", "english": "store brand" },
-    { "dutch": "het assortiment", "english": "assortment" },
-    { "dutch": "de inflatie", "english": "inflation" },
-    { "dutch": "stijgen", "english": "to rise" },
-    { "dutch": "de omzet", "english": "revenue" },
-    { "dutch": "het verbod", "english": "ban" }
+    { "dutch": "het café", "english": "the café" },
+    { "dutch": "de oorzaak", "english": "the cause" },
+    { "dutch": "plotseling", "english": "suddenly" },
+    { "dutch": "verlaten", "english": "to leave" },
+    { "dutch": "ademhalen", "english": "to breathe" },
+    { "dutch": "het ziekenhuis", "english": "the hospital" },
+    { "dutch": "ventileren", "english": "to ventilate" },
+    { "dutch": "de brandweer", "english": "the fire department" },
+    { "dutch": "de meting", "english": "the measurement" },
+    { "dutch": "duidelijk", "english": "clear" },
+    { "dutch": "de getuige", "english": "the witness" },
+    { "dutch": "zich melden", "english": "to report (oneself)" }
   ],
   "readingTests": [
     {
-      "paragraph": "Ahold Delhaize, het moederbedrijf van Albert Heijn, Gall & Gall, bol en Etos, heeft last van duurdere grondstoffen. Vooral koffie en cacao zijn in prijs gestegen. Dit zorgt voor problemen met leveranciers. Topman Frans Muller wil niet zomaar hogere prijzen betalen. Hij zegt dat Ahold Delhaize goed weet hoeveel koffie mag kosten, omdat ze een eigen branderij hebben. Als leveranciers te veel vragen, gaat het bedrijf niet akkoord.",
-      "question": "Why does Ahold Delhaize have problems with suppliers?",
+      "paragraph": "In de nacht van zaterdag op zondag werden 21 mensen ziek in een café in Zaandam. Wat er precies is gebeurd, is nog niet duidelijk. De politie bekijkt camerabeelden om meer te weten te komen. Ze hopen zo de oorzaak te vinden.",
+      "question": "What is the police investigating?",
       "options": [
-        "Because raw materials have become more expensive.",
-        "Because they no longer sell coffee.",
-        "Because customers are buying less."
+        "The security footage from the café.",
+        "The music that was played.",
+        "The menu of the café."
       ],
       "answer": 0
     },
     {
-      "paragraph": "Muller wil niet zeggen met welke leverancier er een conflict is. Maar hij noemt 'rode verpakkingen'. In een Albert Heijn-winkel in Haarlem zijn bijna alle schappen leeg. Daar staat een bordje dat zegt dat sommige producten tijdelijk niet beschikbaar zijn. Uit onderzoek blijkt dat het om JDE Peet's gaat, het moederbedrijf van Douwe Egberts.",
-      "question": "Why are some shelves in Albert Heijn empty?",
+      "paragraph": "Meerdere mensen voelden zich plotseling niet goed in het café. De politie schreef op X dat de hulpdiensten rond 0.51 uur werden gebeld. Ze kwamen meteen en lieten iedereen het café verlaten. Op dat moment waren er ongeveer honderd mensen binnen.",
+      "question": "What happened to the people in the café?",
       "options": [
-        "Because there is a conflict with a supplier.",
-        "Because customers bought everything.",
-        "Because the store is closed."
+        "They felt unwell.",
+        "They started dancing.",
+        "They wanted to go home."
       ],
       "answer": 0
     },
     {
-      "paragraph": "Ook Jumbo heeft problemen met JDE. Sommige producten zijn tijdelijk niet te koop. Toch zegt Jumbo dat Douwe Egberts Aroma Rood van 500 gram nog wel verkrijgbaar is. Dit betekent dat niet alle producten verdwijnen, maar sommige wel tijdelijk niet te koop zijn.",
-      "question": "What does Jumbo say about Douwe Egberts coffee?",
+      "paragraph": "De politie zei dat 21 mensen moeite hadden met ademhalen en een brandend gevoel in hun keel hadden. De meeste mensen werden direct geholpen door artsen in de buurt. Twee mensen moesten naar het ziekenhuis om gecontroleerd te worden. Gelukkig hoefde niemand daar te blijven.",
+      "question": "What symptoms did the people have?",
       "options": [
-        "That some products are temporarily unavailable.",
-        "That all coffee has disappeared from the store.",
-        "That coffee is no longer being sold at all."
+        "Breathing problems and a burning sensation.",
+        "Headaches and stomachaches.",
+        "They fainted."
       ],
       "answer": 0
     },
     {
-      "paragraph": "Ahold Delhaize probeert de prijzen laag te houden. Dit geldt ook voor chocolade. Omdat veel mensen minder geld hebben, verkoopt het bedrijf meer huismerken. Deze goedkopere producten zijn nu 55% van het assortiment.",
-      "question": "Why is Ahold Delhaize selling more store brands?",
+      "paragraph": "Het café werd goed geventileerd. Rond 3.30 uur gaf de brandweer het pand weer vrij. Toch bleef het café op zondag gesloten.",
+      "question": "What did the fire department do?",
       "options": [
-        "Because people have less money.",
-        "Because chocolate is more expensive.",
-        "Because customers no longer want name brands."
+        "They ventilated the café.",
+        "They put out a fire.",
+        "They permanently closed the café."
       ],
       "answer": 0
     },
     {
-      "paragraph": "In januari was het dagelijks leven 3,3% duurder dan een jaar eerder. Vooral eten, drinken en tabak zijn duurder geworden. In januari stegen de prijzen van deze producten met 7%. In december was dit nog 6,7%.",
-      "question": "How much more expensive was daily life in January?",
+      "paragraph": "Metingen in het café gaven geen duidelijke oorzaak van het probleem. De politie begrijpt niet wat er is gebeurd en wil meer informatie krijgen.",
+      "question": "What did the measurements show?",
       "options": [
-        "3.3%.",
-        "7%.",
-        "6.7%."
+        "No clear cause.",
+        "A gas leak.",
+        "Too much smoke."
       ],
       "answer": 0
     },
     {
-      "paragraph": "Ahold Delhaize heeft een goed jaar gehad in Europa. De omzet groeide met 3,5%, ondanks een verbod op de verkoop van sigaretten. Ook webwinkel bol deed het goed. In het vierde kwartaal steeg de omzet met 10%, vooral door Black Friday, Sinterklaas en Kerst.",
-      "question": "Why did bol have higher sales in the fourth quarter?",
+      "paragraph": "De politie vraagt getuigen en mensen met video’s van de avond om zich te melden. Ze hopen zo de oorzaak van de klachten te vinden.",
+      "question": "What is the police asking people to do?",
       "options": [
-        "Because of Black Friday, Sinterklaas, and Christmas.",
-        "Because of a special summer sale.",
-        "Because cigarettes were allowed to be sold again."
+        "Report if they know something.",
+        "Never go to the café again.",
+        "Test new drinks."
       ],
       "answer": 0
     }
