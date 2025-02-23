@@ -1,0 +1,78 @@
+{
+  "vocabulary": [
+    { "dutch": "de samenwerking", "english": "the cooperation" },
+    { "dutch": "de oud-voetballer", "english": "the former footballer" },
+    { "dutch": "de overwinning", "english": "the victory" },
+    { "dutch": "de legend", "english": "the legend" },
+    { "dutch": "de ontwikkeling", "english": "the development" },
+    { "dutch": "het seizoen", "english": "the season" },
+    { "dutch": "het plan", "english": "the plan" },
+    { "dutch": "duidelijk", "english": "clear" },
+    { "dutch": "vragen", "english": "to ask" },
+    { "dutch": "de wedstrijd", "english": "the match" },
+    { "dutch": "de herinnering", "english": "the memory" },
+    { "dutch": "het contract", "english": "the contract" }
+  ],
+  "readingTests": [
+    {
+      "paragraph": "De spelers van Feyenoord wisten zaterdag al dat Robin van Persie zou komen. Ze kijken uit naar de samenwerking met de oud-voetballer. Sinds zondagochtend is het officieel: Van Persie is de nieuwe trainer van Feyenoord.",
+      "question": "Wie is de nieuwe trainer van Feyenoord?",
+      "options": [
+        "Robin van Persie",
+        "Erik ten Hag",
+        "René Hake"
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Quilindschy Hartman zei zaterdag na de 2-1 overwinning op Almere City dat hij goede verhalen hoorde over Van Persie. Jongens als Milambo en Read hebben al met hem gewerkt. Van Persie was trainer van Feyenoord onder 19. Hartman heeft hem een paar keer gesproken en noemt hem een \"legend\".",
+      "question": "Wat was de uitslag van de wedstrijd tegen Almere City?",
+      "options": [
+        "2-1 voor Feyenoord",
+        "3-0 voor Almere City",
+        "1-1 gelijkspel"
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Hartman volgde de afgelopen maanden de ontwikkeling van Van Persie bij sc Heerenveen. Van Persie was daar trainer sinds het begin van het seizoen. Heerenveen staat nu negende in de Eredivisie.",
+      "question": "Waar was Van Persie trainer voor hij naar Feyenoord ging?",
+      "options": [
+        "sc Heerenveen",
+        "Ajax",
+        "PSV"
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Hartman denkt dat Van Persie een trainer is met een duidelijk plan. Bij Heerenveen kon je dat goed zien. Dat is iets wat Feyenoord nodig heeft. Hartman vindt het fijn om als voetballer duidelijke regels te hebben.",
+      "question": "Wat denkt Hartman over Van Persie als trainer?",
+      "options": [
+        "Hij heeft een duidelijk plan",
+        "Hij is niet goed",
+        "Hij heeft geen ervaring"
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Thomas Beelen werd zaterdagavond ook gevraagd naar de komst van Van Persie. Hij speelt volgende week zaterdag voor het eerst als trainer van Feyenoord. De wedstrijd is tegen NEC.",
+      "question": "Tegen welke club speelt Feyenoord zaterdag?",
+      "options": [
+        "NEC",
+        "Ajax",
+        "PSV"
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Beelen zegt dat Van Persie een grote naam is. Hij vond hem een fantastische voetballer en keek veel naar hem. Zijn mooiste herinnering aan Van Persie is de kopbal tegen Spanje op het WK. Van Persie tekende een contract tot 2027 bij Feyenoord. René Hake wordt zijn assistent.",
+      "question": "Wat is de mooiste herinnering van Beelen aan Van Persie?",
+      "options": [
+        "De kopbal tegen Spanje op het WK",
+        "Een goal bij Manchester United",
+        "Een penalty bij Feyenoord"
+      ],
+      "answer": 0
+    }
+  ]
+}
