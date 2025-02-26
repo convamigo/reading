@@ -1,0 +1,78 @@
+{
+  "vocabulary": [
+    { "dutch": "de verdachte", "english": "the suspect" },
+    { "dutch": "oplichten", "english": "to scam" },
+    { "dutch": "de arrestatie", "english": "the arrest" },
+    { "dutch": "de politie", "english": "the police" },
+    { "dutch": "expres", "english": "on purpose" },
+    { "dutch": "stelen", "english": "to steal" },
+    { "dutch": "het bericht", "english": "the message" },
+    { "dutch": "de bankrekening", "english": "the bank account" },
+    { "dutch": "reageren", "english": "to respond" },
+    { "dutch": "het sieraad", "english": "the jewel" },
+    { "dutch": "de smoes", "english": "the excuse" },
+    { "dutch": "de justitie", "english": "the justice system" }
+  ],
+  "readingTests": [
+    {
+      "paragraph": "De politie in Rotterdam heeft vijf mannen opgepakt. Ze worden verdacht van phishing. Dit betekent dat ze proberen mensen op te lichten via het internet. De mannen maken deel uit van een groep cybercriminelen. Ze stelen geld van mensen door hun bankgegevens te krijgen.",
+      "question": "Why were the five men arrested?",
+      "options": [
+        "Because they were involved in phishing.",
+        "Because they used fake money.",
+        "Because they drove without a license."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "De mannen die zijn opgepakt zijn tussen de 18 en 36 jaar oud. Ze komen uit Rotterdam, Dordrecht en Almere. De politie vertelde op dinsdag over deze arrestaties.",
+      "question": "Where are the suspects from?",
+      "options": [
+        "From Rotterdam, Dordrecht, and Almere.",
+        "From Amsterdam and Utrecht.",
+        "From Belgium and Germany."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "De politie in Rotterdam wilde meer leren over phishing. Daarom lieten ze zich expres 'phishen' door oplichters. Phishing is een manier waarop criminelen proberen om bankgegevens te stelen.",
+      "question": "Why did the police let themselves get phished?",
+      "options": [
+        "To catch the scammers.",
+        "Because they lost their bank cards.",
+        "Because they needed money."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Oplichters sturen bijvoorbeeld een e-mail of een appje. In het bericht staat dat er een probleem is met de bankrekening. Ze vragen mensen om op een link te klikken. Zo proberen ze bankgegevens te stelen.",
+      "question": "How do scammers try to steal information?",
+      "options": [
+        "By making people click on a link.",
+        "By robbing a store.",
+        "By taking money from a wallet."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Nadat de politie op de berichten reageerde, kwamen de oplichters langs. Ze vroegen om de bankpas van het slachtoffer. Ze zeiden dat er iets mis was met de bankrekening. Een andere oplichter vroeg juist om sieraden.",
+      "question": "What did the scammers ask for?",
+      "options": [
+        "A bank card or jewelry.",
+        "A shopping bag.",
+        "A new phone."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "De politie arresteerde enkele verdachten bij de deur. Ze hadden een smoes en zeiden dat ze niets verkeerd hadden gedaan. In hun auto lag visgerei. De politie werkte samen met de gemeente en justitie aan deze actie.",
+      "question": "What did the police find in the scammers’ car?",
+      "options": [
+        "Fishing equipment.",
+        "A bag full of money.",
+        "A city map."
+      ],
+      "answer": 0
+    }
+  ]
+}
