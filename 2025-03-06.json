@@ -1,0 +1,78 @@
+{
+  "vocabulary": [
+    { "dutch": "het aandeel", "english": "the share" },
+    { "dutch": "toenemen", "english": "to increase" },
+    { "dutch": "het onderzoek", "english": "the research" },
+    { "dutch": "toepassen", "english": "to apply" },
+    { "dutch": "samenvatten", "english": "to summarize" },
+    { "dutch": "de analyse", "english": "the analysis" },
+    { "dutch": "formeel", "english": "formal" },
+    { "dutch": "de moeite", "english": "the effort" },
+    { "dutch": "de sector", "english": "the sector" },
+    { "dutch": "het percentage", "english": "the percentage" },
+    { "dutch": "twijfelen", "english": "to doubt" },
+    { "dutch": "de privacy", "english": "the privacy" }
+  ],
+  "readingTests": [
+    {
+      "paragraph": "Steeds meer Nederlandse bedrijven gebruiken kunstmatige intelligentie (AI). Bijna een kwart van alle bedrijven in Nederland maakt gebruik van AI-technologieën. Vooral bedrijven in communicatie en zakelijke diensten gebruiken AI vaak. Het Centraal Bureau voor de Statistiek (CBS) onderzoekt elk jaar hoeveel bedrijven AI toepassen. Het afgelopen jaar is dit aantal flink toegenomen.",
+      "question": "What does CBS research every year?",
+      "options": [
+        "The use of AI by Dutch companies.",
+        "The number of new businesses in the Netherlands.",
+        "The number of people using AI at home."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "In 2023 gebruikte 14 procent van de bedrijven AI, maar vorig jaar was dit al 23 procent. Dit betekent dat AI steeds belangrijker wordt in Nederland. Bedrijven gebruiken AI voor veel verschillende taken, zoals data-analyse en communicatie. Het CBS onderzoekt vijftigduizend bedrijven om te kijken hoe vaak AI wordt toegepast.",
+      "question": "How much did AI usage increase in Dutch companies?",
+      "options": [
+        "From 14% to 23%.",
+        "From 10% to 50%.",
+        "From 30% to 40%."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Een op de acht bedrijven gebruikt text mining in zijn werk. Dit betekent dat AI teksten analyseert en samenvat. Bijvoorbeeld, als een werknemer een lang rapport krijgt, kan AI een korte samenvatting maken. Dit bespaart veel tijd en maakt het werk makkelijker.",
+      "question": "What does text mining do?",
+      "options": [
+        "It analyzes and summarizes texts.",
+        "It prints long reports.",
+        "It deletes emails."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Steeds meer bedrijven gebruiken AI om teksten te schrijven. In 2024 werd dit drie keer vaker gedaan dan in het jaar ervoor. AI kan helpen bij het schrijven van e-mails en andere berichten. De gebruiker kan instellen hoe formeel een tekst moet zijn. Dit bespaart moeite en tijd.",
+      "question": "How much more was AI used for writing in 2024 compared to the year before?",
+      "options": [
+        "Three times as much.",
+        "Half as much.",
+        "Ten times as much."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Niet alle sectoren gebruiken evenveel AI. De informatie- en communicatiesector gebruikt AI het meest, met 58 procent in 2024. Dit is een stijging van 21 procentpunt vergeleken met een jaar eerder. Dit komt omdat AI erg handig is voor communicatietaken, zoals het genereren van teksten.",
+      "question": "Which sector uses AI the most?",
+      "options": [
+        "The information and communication sector.",
+        "The healthcare sector.",
+        "The construction sector."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Sommige bedrijven gebruiken nog geen AI. In de financiële sector gebruikt 39,8 procent AI, en bij zakelijke dienstverleners is dat 37,4 procent. Maar andere bedrijven twijfelen nog. Driekwart van de bedrijven die geen AI gebruiken, zegt dat ze er te weinig ervaring mee hebben. Grote bedrijven maken zich ook zorgen over privacy.",
+      "question": "Why do some companies not use AI?",
+      "options": [
+        "They have no experience with it.",
+        "They find it too cheap.",
+        "They do not have enough employees."
+      ],
+      "answer": 0
+    }
+  ]
+}
