@@ -1,0 +1,78 @@
+{
+  "vocabulary": [
+    { "dutch": "de middenvelder", "english": "the midfielder" },
+    { "dutch": "hersteld", "english": "recovered" },
+    { "dutch": "de selectie", "english": "the squad" },
+    { "dutch": "ontbreken", "english": "to be absent" },
+    { "dutch": "de persconferentie", "english": "the press conference" },
+    { "dutch": "de verwachting", "english": "the expectation" },
+    { "dutch": "de bondscoach", "english": "the national coach" },
+    { "dutch": "de rust", "english": "the rest" },
+    { "dutch": "de wedstrijd", "english": "the match" },
+    { "dutch": "het tweeluik", "english": "the two-legged tie" },
+    { "dutch": "de halve finales", "english": "the semi-finals" },
+    { "dutch": "afwerken", "english": "to complete" }
+  ],
+  "readingTests": [
+    {
+      "paragraph": "Frenkie de Jong heeft weer getraind met het Nederlands elftal. Hij was ziek door maagproblemen, maar is nu hersteld. De training was besloten, dus er waren geen toeschouwers. De Jong bereidt zich voor op de wedstrijden tegen Spanje in de kwartfinale van de Nations League.",
+      "question": "Why did Frenkie de Jong not train before?",
+      "options": [
+        "He had stomach problems.",
+        "He was injured.",
+        "He was on vacation."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "De Jong kon zondag niet meespelen met FC Barcelona. Zijn team speelde tegen Atlético Madrid en won met 2-4. Omdat hij ziek was, werd hij niet geselecteerd voor de wedstrijd. Op maandag miste hij ook de training van Oranje.",
+      "question": "Why did De Jong miss FC Barcelona's match?",
+      "options": [
+        "He was sick.",
+        "He was suspended.",
+        "He was injured."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Bondscoach Ronald Koeman zei maandag dat hij verwachtte dat De Jong snel weer kon spelen. De trainer gaf hem extra rust om te herstellen. Koeman dacht dat De Jong misschien iets verkeerds had gegeten.",
+      "question": "What did coach Koeman think caused De Jong’s illness?",
+      "options": [
+        "He ate something bad.",
+        "He trained too hard.",
+        "He had the flu."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Donderdag speelt Nederland de eerste wedstrijd tegen Spanje. Dit duel is in De Kuip in Rotterdam. De tweede wedstrijd is zondag in Valencia. De winnaar van deze twee wedstrijden gaat naar de halve finales van de Nations League.",
+      "question": "Where will the first match against Spain be played?",
+      "options": [
+        "In De Kuip, Rotterdam.",
+        "In Valencia, Spain.",
+        "In Amsterdam."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "Het team dat wint, speelt in juni in de halve finale. De tegenstander zal Frankrijk of Kroatië zijn. De halve finales en de finale van de Nations League worden later dit jaar gespeeld.",
+      "question": "Who could the Netherlands play against in the semi-finals?",
+      "options": [
+        "France or Croatia.",
+        "Germany or Italy.",
+        "England or Belgium."
+      ],
+      "answer": 0
+    },
+    {
+      "paragraph": "De Nations League is een belangrijk toernooi voor Europese landen. Teams spelen tegen elkaar om de beste van Europa te worden. Oranje hoopt ver te komen in het toernooi en misschien zelfs te winnen.",
+      "question": "What is the goal of teams in the Nations League?",
+      "options": [
+        "To become the best team in Europe.",
+        "To qualify for the World Cup.",
+        "To play friendly matches."
+      ],
+      "answer": 0
+    }
+  ]
+}
